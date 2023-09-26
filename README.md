@@ -9,5 +9,4 @@ WhatsTheWeather is a weather application for your iPhone.
 - Test coverage
 - Swift language
 
-![Minimalist Family Three Photo Collage](https://github.com/HeenaVR/WhatsTheWeather/assets/123239882/5debfdcb-9aa4-4451-9644-55860c178a1b)
-
+![weatherImg](https://github.com/HeenaVR/WhatsTheWeather/assets/123239882/1733e203-6274-4ced-8246-408bafe33ec6)
